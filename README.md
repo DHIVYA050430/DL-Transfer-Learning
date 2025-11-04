@@ -41,9 +41,9 @@ Evaluate the model with test accuracy, confusion matrix, classification report, 
 
 ## PROGRAM
 
-### Name:GEDIPUDI DARSHANI
+### Name:DIVYA E
 
-### Register Number:212223230062
+### Register Number:212223230050
 
 ```python
 
